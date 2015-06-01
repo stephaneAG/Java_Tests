@@ -1,0 +1,8 @@
+# to make an executable file from a project using Eclipse:
+right click the Project > Export > Java > Runnable JAR file
+1:Launch configuration >> select the project to build
+2: select the export destination
+3:'Extract required libraries into generated JAR' ( "this operation repacks referenced libraries (...)" -> ok )
+4: go to the destination folder
+5: run 'sudo chmod +x <JAR_file_name>'
+6: execute using './<JAR_file_name>'
