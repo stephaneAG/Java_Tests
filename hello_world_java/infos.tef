@@ -1,0 +1,7 @@
+## to compile & run ##
+
+# 1: to compile:
+ ' javac HelloWorldApp.java ' ( 'javac' to Compile, and then the Java class name )
+
+# 2: to run:
+ ' java HelloWolrdApp ' ( 'java' followed by the compiled class ( aka ' <class_name>.class ', now bytcodes ) /!\ WITHOUT the '.class' extension )
